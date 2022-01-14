@@ -25,7 +25,7 @@
 
 <p align="center"> 
     <a href="#" target="_blank">
-    <img src="public/icon/desc.pnh"></img>
+    <img src="public/icons/desc.png"></img>
   </a>
 </p>
 
